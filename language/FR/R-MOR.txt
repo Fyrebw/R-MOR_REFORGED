@@ -1,0 +1,68 @@
+{
+	strings:
+	{
+	"MORIYA_RMOR_BODY_NAME" : "AR-MURE",
+	"MORIYA_RMOR_BODY_SUBTITLE" : "Robot Missile",
+	"MORIYA_RMOR_BODY_DESCRIPTION" : "AR-MURE est une machine dévastatrice créée pour les rencontres critiques: extrême armure, lames  rétractables et lance-missiles. Un béhémoth instopable. <style=cSub>< ! > ÉRADIQUER est lent, mais puissant. C'est très bon pour tuer les ennemis faibles.\r\n\r\n< ! > CANON_CLUSTER prend du temps à atteindre sa force maximale, mais est puissant quand c'est le cas, lançant les ennemis très loin si ça ne les tuent pas sur le coup.\r\n\r\n< ! > FORTIFIÉ peut aider à contrecarrer la faible régénération d'AR-MURE.\r\n\r\n< ! > Désactiver FORTIFIÉ va vous permettre de vous propulser en hauteur pour atteindre les ennemis volants.\r\n\r\n< ! > Utilisez MISSILES pour infliger de lourds dégâts, au coût de votre vitesse d'attaque.\r\n\r\n",
+	"MORIYA_RMOR_BODY_LORE" :  "<style=cMono>\r\n//--TRANSCRIPTION AUTOMATIQUE DEPUIS LES DÉPARTEMENTS DE L'UES [CENSURÉ]"MOFFEIN_HAND_BODY_LORE" : --//</style>\r\n\r\n<i>*touche <color=#327FFF>Tonique Spinelle</color>*</i>\n\nJoue sans l'artefact de <color=#6955A6>commande</color> la forme ultime d'être cocu?\n\nJe ne peux penser ou comprendre à rien d'autre de anything more cucked than jouer sans <color=#6955A6>commande</color>. Honnêtement, penses-y rationnellement. Tu tires, coures, sautes pour quelque chose come 60 minutes seul pour obtenir une merde de <color=#77FF16>Polype Calamar</color>. Tout ce dur travail que tu as mis dans ta partie - évitant les lasers d'un <style=cIsHealth>Golem de pierres</style> , être ennuyé par six-cents <style=cIsHealth>Feufollets</color> apparaissant au-dessus de ta tête, activant des <color=#E5C962>Autels la Montagne</color> tout ça pour un simple résultat: ton inventaire est rempli avec des <color=#FFFFFF>Bannières de guerre</color> et <color=#FFFFFF>Des colliers de dents de monstres</color> qui coûtent de l'argent.\n\nSur une god run? Super. Un tas d'objets merdiques qui rajoutent rien à ta run et qui finissent par venir des <color=#E5C962>Coffres</color> que tu achètes. Ils prennent le bénéfice de votre dosh durement gagné qui vient du fait de tuer des <style=cIsHealth>Sauriens</style>.\n\nEn temps qu'homme qui joue à ce jeu tu dédit <style=cIsHealth>LITTÉRALLEMENT</style> deux heures de ta vie à ouvrir des boîtes et prier pour que ce ne soit pas une autre <color=#77FF16>Chronoboule</color>. C'est l'utime et final cocu. Penses-y logiquement.\r\n<style=cMono>\r\nTranscriptions complète.\r\n</style>\r\n \r\n\r\n"
+	"MORIYA_RMOR_BODY_OUTRO_FLAVOR" : "..Et donc il est parti, exposant des signes de viellissements.",
+	"MORIYA_RMOR_BODY_OUTRO_FAILURE" : "..Et donc il a disparu, non récompensé pour tout ses efforts.",
+	
+	"MORIYA_RMOR_BODY_PASSIVE_NAME" : "ARMURE_ASSAULT",
+	"MORIYA_RMOR_BODY_PASSIVE_DESC" : "<style=cIsDamage>Augmente la vitesse d'attaque</style> de <style=cIsDamage>5%</style> pour chaque <style=cIsUtility>drone</style> dans votre équipe.",\
+
+	"MORIYA_RMOR_BODY_PRIMARY_NAME" : "ÉRADIQUER",
+	"MORIYA_RMOR_BODY_PRIMARY_DESC" : "Tire un missile qui explose à l'impact pour <style=cIsDamage>420% de dégâts</style>.",
+	"MORIYA_RMOR_BODY_PRIMARY_GUN_NAME" : "ASSAULT",
+	"MORIYA_RMOR_BODY_PRIMARY_GUN_DESC" : "Tire rapidement avec deux mitrailleuses pour <style=cIsDamage>90% de dégâts</style>.",
+	"MORIYA_RMOR_BODY_PRIMARY_BLADE_NAME" : "BROCHETTE",
+	"MORIYA_RMOR_BODY_PRIMARY_BLADE_DESC" : "Poignarde tous les combattants pour <style=cIsDamage>220% de dégâts</style>. <style=cIsDamage>Fait saigner</style> pendant que<style=cIsDamage>SURCHARGE</style> est active.",
+	
+	"MORIYA_RMOR_BODY_ALTSECONDARY_NAME" : "REMONTAGE_FORCÉ",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_DESC" : "<style=cIsDamage>Fait saigner</style>. Charge up and apply great force to all combatants for <style=cIsDamage>600%-1500% damage</style>.",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_SCEPTER_NAME" : "REMONTAGE_IMMORAL",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Bleeding</style>. Charge et applique une force<style=cIsHealth>ÉCRASANTE</style> sur tous les combattants pour <style=cIsDamage>900%-2250% de dégâts</style>.",
+	"MORIYA_RMOR_BODY_SECONDARY_NAME" : "CANON_CLUSTER",
+	"MORIYA_RMOR_BODY_SECONDARY_DESC" : "Charge et lance un puissant missile pour <style=cIsDamage>600%-1800% de dégâts</style>.",
+	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_NAME" : "CANON_OBLIVION",
+	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_DESC" : "Charge rapidement et lance un puissant missile pour <style=cIsDamage>600%-2400% dégâts</style>.",
+	
+	
+	"KEYWORD_MORIYAHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>Renforce</style><style=cSub>La compétence peut être annulée plus tôt pour vous propulser dans les airs.</style>",
+	"KEYWORD_MORIYARMOR_BLEEDING" : "<style=cKeywordName>Bleeding</style><style=cSub>The skill causes bleed on hit.</style>",
+	
+	"MORIYA_RMOR_BODY_UTILITY_CANCEL_NAME" : "ANNULER",
+	"MORIYA_RMOR_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>Propulse en l'air</style>.",
+	
+	"MORIYA_RMOR_BODY_UTILITY_NAME" : "SURCHARGE",
+	"MORIYA_RMOR_BODY_UTILITY_DESC" : "<style=cIsUtility>Boost</style>. Augmente la <style=cIsUtility>vitesse de déplacement</style> et la <style=cIsDamage>vitesse d'attaque</style> par <style=cIsDamage>40%</style>. Frapper des ennemis pour <style=cIsUtility>augmenter la durée</style>.",
+	
+	"MORIYA_RMOR_BODY_UTILITY_RMOR_NAME" : "FORTIFIÉ",
+	"MORIYA_RMOR_BODY_UTILITY_RMOR_DESC" : "<style=cIsUtility>Renforce</style>. Gagnez <style=cIsUtility>200 d'armur</style> et augmente <style=cIsHealing>la régénération</style> de <style=cIsHealing>10% de votre vie maximale par seconde</style>. Frapper des ennemis pour <style=cIsUtility>augmenter la durée</style>.",
+	
+	"MORIYA_RMOR_BODY_UTILITY_NEMESIS_NAME" : "FOCUS",
+	"MORIYA_RMOR_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Renforce</style>. Gagnez <style=cIsDamage>+50% de dégâts</style> et <style=cIsUtility>50 d'armure</style>, mais perdez <style=cIsHealth>30% de vitesse de déplacement</style>. Frapper des ennemis pour <style=cIsUtility>augmenter la durée</style>.",
+	
+	"MORIYA_HAND_BODY_SPECIAL_NAME" : "DRONE",
+	"MORIYA_HAND_BODY_SPECIAL_DESC" : "Tire un drone qui inflige <style=cIsDamage>270% de dégâts</style> et <style=cIsHealing>vous soigne de 40% des dégâts infligés</style>. Les ennemis tués et les frappes de mélée <style=cIsUtility>réduisent le temps de rechargement</style>.",
+
+	"MORIYA_RMOR_BODY_SPECIAL_NAME" : "MISSILE",
+	"MORIYA_RMOR_BODY_SPECIAL_DESC" : "Tire des missiles qui infligent <style=cIsDamage>600% de dégâts.</style> Les ennemis tués et dégâts de mélée <style=cIsUtility>réduisent le temps de rechargement</style>.",
+	
+	"ACHIEVEMENT_MORIYARMORSURVIVORUNLOCK_NAME" : "Renforcé au combat",
+	"ACHIEVEMENT_MORIYARMORSURVIVORUNLOCK_DESCRIPTION" : "Atteignez 1000 d'armure en une seule partie.",
+	
+	"ACHIEVEMENT_MORIYARMOROVERCLOCKUNLOCK_NAME" : "AR-MURE: Octane",
+	"ACHIEVEMENT_MORIYARMOROVERCLOCKUNLOCK_DESCRIPTION" : "En temps qu'AR-MURE, gardez la compétence FORTIFIÉ active pour plus de 45 secondes.",
+	
+	"ACHIEVEMENT_MORIYARMORSKEWERUNLOCK_NAME" : "AR-MURE: Imbattable",
+	"ACHIEVEMENT_MORIYARMORSKEWERUNLOCK_DESCRIPTION" : "En temps qu'AR-MURE, complétez un niveau sans tomber sous la barre des 30% de vie.",
+
+	"ACHIEVEMENT_MORIYARMORSLASHUNLOCK_NAME" : "AR-MURE: Contrôle de foule",
+	"ACHIEVEMENT_MORIYARMORSLASHUNLOCK_DESCRIPTION" : "En temps qu'AR-MURE, performez un massacre multiple de 20 ennemis.",
+	
+	"MORIYA_RMOR_BODY_MASTERY_SKIN_NAME" : "2-HOU",
+	"ACHIEVEMENT_MORIYARMORCLEARGAMEMONSOON_NAME" : "AR-MURE: Maîtrise",
+	"ACHIEVEMENT_MORIYARMORCLEARGAMEMONSOON_DESCRIPTION" : "En temps qu'AR-MURE, battez le jeu ou oblitérez-vous en Mousson.",
+	}
+}
